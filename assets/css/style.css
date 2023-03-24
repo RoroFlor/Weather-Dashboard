@@ -1,0 +1,16 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.weatherTitle{
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-image: linear-gradient(to right, blue, purple) ;
+    background-image: linear-gradient(to right, blue, purple);
+    text-align: center;
+}
+
+.searchBtn{
+    padding:5px 20px
+}

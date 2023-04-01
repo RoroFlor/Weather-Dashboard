@@ -4,6 +4,8 @@
 
 ## Resources
 ### Api used:
+https://openweathermap.org/api
 
 ## Site:
 ### Image showcasing functionality of site:
+![site](./assets/images/Screenshot%202023-04-01%20at%205.28.05%20PM.png)
